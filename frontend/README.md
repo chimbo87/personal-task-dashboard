@@ -53,7 +53,7 @@ https://youtu.be/8V-rvmZ9b2E
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/personal-task-dashboard.git
+https://github.com/chimbo87/personal-task-dashboard.git
 cd personal-task-dashboard
 
 
